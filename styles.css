@@ -18,6 +18,10 @@ h2 {
 
 }
 
+h1 {
+	color: #111;
+}
+
 code, pre {
 	background: #f5f7f9;
 }
@@ -34,5 +38,14 @@ a {
 	color: #e81cdf;
 }
 
+header {
+	background-color: #233;
+	background-image: url("header.jpg");
+	background-position: center top;
+	background-repeat: cover;
+	line-height: 1.2;
+	padding: 2em;
+	text-align: center;
+}
 
 
